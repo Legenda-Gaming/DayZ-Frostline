@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+
+	<!-- Types -->
+	<ce folder="types_extra">
+		<file name="LB_ATM.xml" type="types"/>					
+    </ce>		
+</economycore>

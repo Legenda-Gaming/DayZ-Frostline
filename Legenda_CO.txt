@@ -1,0 +1,468 @@
+CO8_RopeSlingMelee
+CO8_RopeSling
+CO8_Binocular
+CO8_ShovelSap1
+CO8_Shovel_Fold
+CO8_Shovel_UnFold
+CO8_HammerOld
+CO8_Sleepingbag_surv_rama
+CO8_Sleepingbag_surv_matrac
+CO8_Sleepingbag_surv 
+CO8_WaterBottle_dirty
+CO8_CanOpener
+CO8_MessKit1
+CO8_Pot_Orange
+CO8_CartonBox_fOlded
+CO8_CartonBox
+CO8_MilitaryBox_wood1
+CO8_MilitaryBox_wood2
+CO8_MilitaryBox_wood3
+CO8_OldWrench
+CO8_ConopKatana
+CO8_ConopKatanaHolster
+CO8_BoxCutter_knife
+CO8_Handmade_knife_1
+CO8_StoneKnife1_handle
+CO8_StoneBlade
+CO8_Stoneknife1
+CO8_WrenchKnife
+CO8_MultiTool_Knife
+CO8_MultiTool_Unlock
+CO8_MultiTool
+CO8_WD40_100ml
+CO8_TooLBox_AK
+CO8_TooLBox_NATO
+CO8_TooLBox_SHOTGun
+
+--------------
+
+	
+		"CO8_RopeSling,1,-1,100,50,20",
+		"CO8_Binocular,1,-1,100,500,200",
+		"CO8_ShovelSap1,1,-1,100,400,200",
+		"CO8_Shovel_Fold,1,-1,100,600,200",
+		"CO8_HammerOld,1,-1,100,250,100",
+		"CO8_Sleepingbag_surv,1,-1,100,100,40",
+		"CO8_WaterBottle_dirty,1,-1,100,15,1",
+		"CO8_CanOpener,1,-1,100,700,300",	
+		"CO8_MessKit1,1,-1,100,250,100",
+		"CO8_Pot_Orange,1,-1,100,300,100",
+		"CO8_CartonBox,1,-1,100,60,20",
+		"CO8_MilitaryBox_wood1,1,-1,100,500,230",
+		"CO8_MilitaryBox_wood2,1,-1,100,400,200",
+		"CO8_MilitaryBox_wood3,1,-1,100,400,200",
+		"CO8_OldWrench,1,-1,100,150,50",
+		"CO8_ConopKatana,1,-1,100,1500,300",
+		"CO8_ConopKatanaHolster,1,-1,100,500,200",	
+		"CO8_BoxCutter_knife,1,-1,100,100,30",
+		"CO8_Handmade_knife_1,1,-1,100,200,60",
+		"CO8_StoneKnife1_handle,1,-1,100,100,30",
+		"CO8_StoneBlade,1,-1,100,150,50",
+		"CO8_WrenchKnife,1,-1,100,180,50",
+		"CO8_MultiTool,1,-1,100,300,130",
+		"CO8_WD40_100ml,1,-1,100,30,10",
+		"CO8_TooLBox_AK,1,-1,100,200,60",
+		"CO8_TooLBox_NATO,1,-1,100,220,60",
+		"CO8_TooLBox_SHOTGun,1,-1,100,250,60",
+
+    ---------------------
+
+    	type
+
+      	<type name="CO8_RopeSling">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>
+	<type name="CO8_Binocular">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_ShovelSap1">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_Shovel_Fold">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_HammerOld">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_Sleepingbag_surv">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_WaterBottle_dirty">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_CanOpener">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_MessKit1">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_Pot_Orange">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_CartonBox">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_MilitaryBox_wood1">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_MilitaryBox_wood2">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_MilitaryBox_wood3">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_OldWrench">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_ConopKatana">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+    </type>		
+	<type name="CO8_ConopKatanaHolster">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+    </type>	
+	<type name="CO8_BoxCutter_knife">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_Handmade_knife_1">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_StoneKnife1_handle">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_StoneBlade">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_WrenchKnife">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_MultiTool">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_WD40_100ml">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>		
+	<type name="CO8_TooLBox_AK">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_TooLBox_NATO">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	
+	<type name="CO8_TooLBox_SHOTGun">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+    </type>	

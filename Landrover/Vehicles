@@ -1,0 +1,12 @@
+	{
+      "CategoryName": "Landrover",
+      "Products": [
+		   "rag_landrover_110,1,-1,0,250000,100000",		
+		   "rag_landrover_110_olive,1,-1,0,251000,100000",			
+		   "rag_landrover_110_grey,1,-1,0,252000,100000",			
+		   "rag_landrover_110_red,1,-1,0,253000,100000",				
+	       "rag_landrover_110_un,1,-1,0,254000,100000",
+	       "rag_landrover_110_black,1,-1,0,255000,100000",		   
+		   "rag_landrover_110_pink,1,-1,0,256000,100000"
+      ]
+    },

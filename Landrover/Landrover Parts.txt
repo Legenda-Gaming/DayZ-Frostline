@@ -50,6 +50,5 @@
 		"rag_landrover_110_cargo3_un,1,-1,0,445,210",        				
 		"rag_landrover_110_cargo3_black,1,-1,0,445,210",        			
 		"rag_landrover_110_cargo3_pink,1,-1,0,445,210"   	  
-		"  
       ]
     },	

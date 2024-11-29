@@ -1,0 +1,18 @@
+	    {
+            "Id": 16,
+            "Name": "SurvivorM_Hassan",
+            "GivenName": "Hassan",
+            "Role": "Heli",
+            "Position": [
+			    8172.001953, 217.028671, 11972.004883
+            ],
+            "Orientation": [
+               -51.507931, 0.000000, 0.000000
+            ],
+            "Clothes": [
+			   "RFFSHeli_PilotVest",
+               "RFFSHeli_PilotShirt",
+               "RFFSHeli_PilotPants",
+               "TTSKOBoots"
+			]
+        }	
